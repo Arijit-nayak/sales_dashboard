@@ -1,7 +1,7 @@
-# ** Sales Data Dashboard using Python **
+#  Sales Data Dashboard using Python 
 This project analyzes and visualizes sales data from an Excel file using Pandas, Matplotlib, and Seaborn. It provides actionable insights into product performance, regional sales, and category trends.
 
-# **  Objectives & Visualizations **
+#   Objectives & Visualizations 
 1: Top 10 Products by Sales
     Horizontal bar plot showing best-selling products.
 
